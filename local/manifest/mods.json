@@ -1,3 +1,56 @@
 {
-	"mods": []
+	"mods": [
+		{
+			"name": "1.4.7-Trapcraft-v1.0.0.0.zip",
+			"sha256": "94088f2db0026c03ee58a48c5408454c115f14a1bb6555471f5c5d0b582aaa68"
+		},
+		{
+			"name": "BetterStorage.zip",
+			"sha256": "8fa2c3a140ebf577e551aac92f7686472ad73b59a04a2742ec6c5eff3a5355d5"
+		},
+		{
+			"name": "CameraCraft2.3.zip",
+			"sha256": "bab8ce1b282613265d98ffab91415e2069193352aee86ad0d80f8a463c252d30"
+		},
+		{
+			"name": "doubledoor-forge-v4.5.zip",
+			"sha256": "b11f74da36d87f480dbbce4b2161a8db1eb6d0c6dc093db8194fca41800e35f9"
+		},
+		{
+			"name": "GravityGun1.4.7v2.zip",
+			"sha256": "8ed2f27942cc67a04a58febda377a22c66e3f6b9d6279050f46c7b28d9a4645c"
+		},
+		{
+			"name": "Mutant-Creatures-v1.2.1-mc1.4.7.zip",
+			"sha256": "012827de80b973af95794a129121aba9d074d1fcdde8c7d3e7885085f25210bc"
+		},
+		{
+			"name": "PortalGun1.4.7v5.zip",
+			"sha256": "52528539170507bd248a63ff25e3433675d54e87458843a5877f7496e18a03c6"
+		},
+		{
+			"name": "PrimitiveMobsv1.2.1.zip",
+			"sha256": "c8352169d8a7291fa8bd584f9610077b489876659ca9be6e9a61daf48328038a"
+		},
+		{
+			"name": "PrinterBlock_1.4.6.zip",
+			"sha256": "8c5c1512d4a430bc5c70977da8ae97e34ea03225e3b656257137b7eb56dd10d5"
+		},
+		{
+			"name": "Specialarmor_1.4.6.zip",
+			"sha256": "c7aca17c8228a7fe601b9389a4a9087daee306e90fe96225ea71c8c902d9b8d5"
+		},
+		{
+			"name": "SpecialMobs-2.4-for-MC-1.4.7.zip",
+			"sha256": "79e1e062e45081c8549780dabdac8cd2eae14bb13b9737de4426cb5aa4cd759d"
+		},
+		{
+			"name": "UtilityMobs-1.1pre-for-MC-1.4.7.zip",
+			"sha256": "8d4634df1f27d9f75e12840fada0df796773c9f8dc77e6262438d72d47235eec"
+		},
+		{
+			"name": "Weaponmod.zip",
+			"sha256": "55b0a3e4db6377e140c8885ab3825e2ca71502c8d165d73d3c526e9abbc22b20"
+		}
+	]
 }

@@ -1,0 +1,16 @@
+{
+	"version": "1.4.7",
+	"mainClass": "net.minecraft.launchwrapper.Launch",
+	"jvmArgs": [
+		"-Xmx2G",
+		"-Xms512M"
+	],
+	"launcherVersion": "1.0.0",
+	"launcherUrl": "https://github.com/tokarotik/pepsik-Serv/raw/refs/heads/main/local/main/local/launcher.exe",
+	"launcherSha256": "624fe51ffbcb991d29f8a952437a20a7ede16a50778db4e40c2a4e011628b404",
+	"client": {
+		"name": "client.jar",
+		"url": "https://github.com/tokarotik/pepsik-Serv/raw/refs/heads/main/local/main/local/client/client.jar",
+		"sha256": "9427836dd138605166b02cdda3ae1a1928947e46c8305ba8c4b6ceb96f7e3c71"
+	}
+}
