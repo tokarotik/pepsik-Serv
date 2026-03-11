@@ -7,10 +7,10 @@
 	],
 	"launcherVersion": "1.0.0",
 	"launcherUrl": "https://github.com/tokarotik/pepsik-Serv/raw/refs/heads/main/local/main/local/launcher.exe",
-	"launcherSha256": "03b18dd896db08eb82f4cde4faf3115b563bc7cab583f2007147a654e9001c25",
+	"launcherSha256": "c302021cdcc5dc4b87966a5e9456e43c2a34d2f111f8066d54f6a295aec37596",
 	"client": {
 		"name": "client.jar",
 		"url": "https://github.com/tokarotik/pepsik-Serv/raw/refs/heads/main/local/main/local/client/client.jar",
-		"sha256": "4208f409aa6e224ebbd018e1e02a2d8deca06c9dabcaeb84eb755a16194fce17"
+		"sha256": "5adce1d8f7bf9f564c9a4220add6a93bc374def14464d7aeca23c2656f7471ef"
 	}
 }
